@@ -1,0 +1,24 @@
+img{
+    width: 30%;
+}
+
+body{
+    background-color: blue;
+}
+body .display-1{
+    color: aquamarine;
+    text-align: center;
+}
+
+body .criaturas-title{
+    color: white;
+}
+
+body ol{
+    color: white;
+
+}
+
+.col{
+    text-align: justify;
+}
